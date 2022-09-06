@@ -10,4 +10,4 @@ Este repositorio tiene las practicas y entregas de la materia de sitemas operati
 - [Practica2](./Tarea1.md)
 
 
-- [Practica5](https://github.com/ChristopherOrtiz69/Practica4)
+- [Practica5](https://github.com/ChristopherOrtiz69/Practica4) 

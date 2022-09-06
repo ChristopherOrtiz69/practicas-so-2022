@@ -4,7 +4,7 @@ Christopher Ivan Ortiz Villafañet
 
 21 años 
 
-![fotoperfil](/IMG/foto.jpg)
+
 
 # Breve Presentacion
 
