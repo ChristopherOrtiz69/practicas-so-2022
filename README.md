@@ -1,9 +1,9 @@
 # Christopher Ortiz 
 
 
-Este repositorio tiene las practicas y entregas de la materia de sitemas operativos y redes
+Este repositorio tiene las practicas y entregas de la materia de sistemas operativos y redes 1 parcial 
 
-## Pareciales Practicas-1
+## Parciales Practicas-1Parcial
 
 - [Practica1](./Datos.md)
 
@@ -14,3 +14,4 @@ Este repositorio tiene las practicas y entregas de la materia de sitemas operati
 - [Practica5](https://github.com/ChristopherOrtiz69/Practica4) 
 
 
+- [Practica8](./practica_8.md)
