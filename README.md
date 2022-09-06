@@ -1,5 +1,6 @@
 # Christopher Ortiz 
 
+
 Este repositorio tiene las practicas y entregas de la materia de sitemas operativos y redes
 
 ## Pareciales Practicas-1
@@ -12,4 +13,4 @@ Este repositorio tiene las practicas y entregas de la materia de sitemas operati
 
 - [Practica5](https://github.com/ChristopherOrtiz69/Practica4) 
 
-- hola
+
