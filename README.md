@@ -16,4 +16,7 @@ Este repositorio tiene las practicas y entregas de la materia de sistemas operat
 
 - [Practica8](./practica_8.md)
 
+# Crenado nueva version 
+
+
 Pueba Camvio code 
