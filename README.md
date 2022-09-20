@@ -16,7 +16,5 @@ Este repositorio tiene las practicas y entregas de la materia de sistemas operat
 
 - [Practica8](./practica_8.md)
 
-# Crenado nueva version 
+# Creando la version 1.0.0 de este repositorio 
 
-
-Pueba Camvio code 
