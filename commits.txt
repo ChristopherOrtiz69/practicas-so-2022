@@ -1,0 +1,26 @@
+git log
+chris@DESKTOP-R5GFV2A MINGW64 /c/PortableChristopher/UserChristopherPortable-20220914T002144Z-001/UserChristopherPortable/practicas-so-2022 (main)
+$ git log
+commit 2764f2abd45a05a60cd64eb896101d1e2ee78213 (HEAD -> main)
+Author: Christopher Ortiz <christopher.villafanet@gmail.com>
+Date:   Tue Sep 20 09:45:24 2022 -0500
+
+    v1.0.0
+
+commit 9a55ba0b2f90ba6d21c44c0b842cbd6a6f162a47 (tag: v1.0.0, origin/main, origin/HEAD)
+Merge: 149eb24 3553b0d
+Author: Christopher Ortiz <christopher.villafanet@gmail.com>
+Date:   Tue Sep 13 10:39:20 2022 -0500
+
+    Merge branch 'js'
+
+commit 149eb245cde3a98dc2f9178154d1aebb83765ed5
+Merge: 7978632 9519db9
+Author: Christopher Ortiz <christopher.villafanet@gmail.com>
+Date:   Tue Sep 13 10:39:03 2022 -0500
+
+    Merge branch 'css'
+
+commit 3553b0dc1b3bee7d019b3eb19c3b98b712fb2d1b (origin/js, js)
+Author: Christopher Ortiz <christopher.villafanet@gmail.com>
+:
